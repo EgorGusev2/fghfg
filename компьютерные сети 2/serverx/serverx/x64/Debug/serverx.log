@@ -1,0 +1,3 @@
+﻿  serverx.cpp
+C:\Users\egorg\OneDrive\Рабочий стол\компьютерные сети 2\serverx\serverx\serverx.cpp(31,24): warning C4101: client: неиспользованная локальная переменная
+  serverx.vcxproj -> C:\Users\egorg\OneDrive\Рабочий стол\компьютерные сети 2\serverx\x64\Debug\serverx.exe
